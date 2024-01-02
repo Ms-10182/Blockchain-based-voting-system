@@ -1,5 +1,5 @@
 # Blockchain-based-voting-system
-###steps to use the code
+### steps to use the code
 
 1. Open Remix IDE.
 2. Paste the code.
